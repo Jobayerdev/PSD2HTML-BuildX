@@ -118,7 +118,9 @@ input:focus {
 .header-top-area i {
     margin-right: 10px;
 }
-
+body {
+	overflow-x: hidden;
+}
 /*****---------- Navigation ----------*****/
 .navigation {
     background-color: #fff;
